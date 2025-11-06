@@ -1,0 +1,2 @@
+# AngularDiscover
+CSR, SSR, SSG
